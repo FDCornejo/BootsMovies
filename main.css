@@ -4,3 +4,34 @@ background-color: #1E2647;
 nav.setnav.navbar {
     background-color: #293462; 
 }
+nav>button.btn{
+  background-color: white;
+    color: #293462;
+}
+body>div.container>.row>div>.card>.card-body>.collapse>a,body>nav>button.final, body>div.modal>.modal-dialog>.modal-content>form>.modal-footer>button.verite,.unicoy>button{
+    background-color: #F76262;
+    color: #FFF1C1;
+}
+body>div.modal>.modal-dialog>.modal-content>form>.modal-footer>button.nop{
+        background-color: #293462;
+    color: #FFF1C1;
+    
+}
+body>nav>div>ul>li>a{
+     color: #FFF1C1;
+
+}
+body>nav>div>a{
+    color: white
+}
+body>nav>button.navbar-toggler>span.navbar-toggler-icon{
+    color: white;
+}
+
+body>footer>div>div>div>ul>li>a{
+     color: #FFF1C1;
+}
+body>footer>div>div>div>ul>li>a:hover{
+     color: #F76262;
+    text-decoration: none
+}
