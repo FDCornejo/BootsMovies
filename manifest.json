@@ -3,12 +3,12 @@
   "name": "Peli Filme",
   "icons": [
     {
-    "src": "./assets/icons/icon-128x128",
+    "src": "/assets/icons/icon-128x128",
     "type": "image/png",
     "sizes": "128X128"
   },
   {
-    "src": "./assets/icons/icon-128x128",
+    "src": "/assets/icons/icon-128x128",
     "type": "image/png",
     "sizes": "512x512"
   }
