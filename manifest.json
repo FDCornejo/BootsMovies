@@ -3,7 +3,7 @@
   "name": "Peli Filme",
   "icons": [
     {
-      "src": "/Thelogo.png",
+      "src": "./Thelogo.png",
       "type": "image/png",
       "sizes": "192x192"
     }
