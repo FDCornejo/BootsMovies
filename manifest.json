@@ -1,17 +1,16 @@
 {
-  "short_name": "Filme Peli",
-  "name": "Filme Peli",
+  "short_name": "Filme",
+  "name": "Peli Filme",
   "icons": [
     {
-      "src": "assets/logo.png",
+      "src": "/assets/logo.png",
       "type": "image/png",
-      "sizes": "48x48"
-    },
-    {
-      "src": "assets/logo.png",
-      "type": "image/png",
-      "sizes": "96x96"
+      "sizes": "192x192"
     }
   ],
-  "start_url": "index.html?launcher=true"
+  "start_url": "index.com",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/maps/",
+  "theme_color": "#3367D6"
 }
