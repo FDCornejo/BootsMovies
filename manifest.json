@@ -8,9 +8,9 @@
       "sizes": "192x192"
     }
   ],
-  "start_url": "/",
+  "start_url": "/Bootsfilmes/",
   "background_color": "#293462",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/Bootsfilmes/",
   "theme_color": "#293462"
 }
