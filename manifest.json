@@ -10,7 +10,7 @@
   ],
   "start_url": "/Bootsfilmes/index.html",
   "background_color": "#293462",
-  "display": "standalone",
+"display": "standalone",
   "scope": "/Bootsfilmes/",
   "theme_color": "#293462"
 }
