@@ -2,7 +2,9 @@
 var cacheName = 'filme-1.0.0';
 var dataCacheName = 'filme-data-v1';
 
-var urlsToCache = [];
+var urlsToCache = ['/',
+'/index.html',
+'/main.css'];
 
 self.addEventListener('install', function(e) {
   console.log('[ServiceWorker] Install');
