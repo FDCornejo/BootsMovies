@@ -1,8 +1,7 @@
-  
-var cacheName = 'filme-1.0.0';
-var dataCacheName = 'filme-data-v1';
+var cacheName = 'filme-1.2.0';
+var dataCacheName = 'filme-data-v2';
 
-var urlsToCache = ['/',
+var urlsToCache = [
 '/index.html',
 '/main.css'];
 
